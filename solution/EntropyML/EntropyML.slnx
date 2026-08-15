@@ -1,0 +1,26 @@
+<Solution>
+  <Folder Name="/Examples/">
+    <Project Path="Examples/ExampleAE/ExampleAE.csproj" Id="3ebe8f54-5624-4fb6-80ee-3390d51b8e9b" />
+    <Project Path="Examples/ExampleData/ExampleData.csproj" Id="850638a0-b2cd-4803-8a9d-c84850398312" />
+    <Project Path="Examples/ExampleNN/ExampleNN.csproj" Id="ba5d8ed9-e16c-4757-b590-7593d3217eac" />
+    <Project Path="Examples/ExampleTVAE/ExampleTVAE.csproj" Id="a7c9ad9f-9ea7-4deb-bcd7-a93eceb5b260" />
+    <Project Path="Examples/ExampleVAE/ExampleVAE.csproj" Id="ba011291-ffcc-448e-a148-59f86ad2cf58" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="../../doc/MEADME.md" />
+    <File Path="../../doc/ThermoML_API_Sheet.md" />
+    <File Path="../../doc/ThermoML_FolderStructure.md" />
+    <File Path="../../doc/ThermoML_HMD.md" />
+    <File Path="../../doc/ThermoML_Landing.md" />
+    <File Path="../../doc/ThermoML_QuickStart.md" />
+    <File Path="../../doc/ThermoML_ReleaseBundle.md" />
+    <File Path="../../doc/ThermoML_SpecLite.md" />
+    <File Path="../../doc/ThermoML_Terminology.md" />
+    <File Path="../../doc/ThermoML_Versioning.md" />
+  </Folder>
+  <Project Path="EntropyML.AE/EntropyML.AE.csproj" />
+  <Project Path="EntropyML.Data/EntropyML.Data.csproj" />
+  <Project Path="EntropyML.NN/EntropyML.NN.csproj" />
+  <Project Path="EntropyML.TVAE/EntropyML.TVAE.csproj" />
+  <Project Path="EntropyML.VAE/EntropyML.VAE.csproj" />
+</Solution>
